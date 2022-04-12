@@ -1,0 +1,7 @@
+.search-Results {
+    width: 1250px;
+    padding: 0rem 2rem 0rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
